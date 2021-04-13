@@ -1,2 +1,2 @@
-# happy
-Aplicação desenvolvida em React
+# Backend do app Happy
+Aplicação desenvolvida em NodeJs
